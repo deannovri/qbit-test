@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+@import "./pages/homepage";
+@import "./components/signup";
+@import "./components/headerlogin";
+@import "./components/headerhome";
+@import "./components/footer";
+@import "./pages/about";
+@import "./pages/post";
+@import "./components/login";
+@import "./components/inputpost";
+@import "./components/allpost";
+@import "./components/displayabout";
+@import "./components/inputabout";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}

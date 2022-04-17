@@ -1,0 +1,10 @@
+.allpost-container{
+	background-color: lightgray;
+	width: 30vw;
+	overflow: scroll;
+	.allpost-card{
+		background-color: lightsalmon;
+		width: 50%;
+		margin: 10px;
+	}
+}
